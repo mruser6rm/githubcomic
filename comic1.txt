@@ -1,0 +1,1 @@
+creates a comic1.txt file
